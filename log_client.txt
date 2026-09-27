@@ -1,0 +1,50 @@
+pi@raspberrypi:~/Desktop/mlab5 $ python3 client.py
+
+WiFi link establissixsevend
+Attempting Bluetooth connection...
+
+***** channel active *****
+Input> sixsevenllo
+Re-initialising Bluetooth link...
+Attempting Bluetooth connection...
+Bluetooth channel ready
+Sent: [2026-04-22 17:46:21] sixsevenllo | path=bt | rssi=-16
+
+Input> iotlab
+Sent: [2026-04-22 17:46:32] iotlab | path=bt | rssi=-28
+
+Input> hi
+Sent: [2026-04-22 17:46:35] hi | path=bt | rssi=-24
+
+Input> 
+Sent: [2026-04-22 17:46:35]  | path=bt | rssi=-26
+
+Input> sixseven
+Sent: [2026-04-22 17:46:40] sixseven | path=bt | rssi=-31
+
+Input> hi
+Sent: [2026-04-22 17:46:59] hi | path=bt | rssi=-31
+
+Input> moving away
+Sent: [2026-04-22 17:47:34] moving away | path=wifi | rssi=-100
+
+Input> iotlab
+Sent: [2026-04-22 17:47:38] iotlab | path=wifi | rssi=-100
+
+Input> iotlab
+Sent: [2026-04-22 17:47:41] iotlab | path=wifi | rssi=-100
+
+Sent: [2026-04-22 17:49:35] hi | path=bt | rssi=0
+
+Input> iotlab
+Sent: [2026-04-22 17:50:50] iotlab | path=bt | rssi=0
+
+Input> sixsevenllo
+Sent: [2026-04-22 17:50:59] sixsevenllo | path=bt | rssi=0
+
+Input> iotlab
+Sent: [2026-04-22 17:51:03] iotlab | path=bt | rssi=0
+
+Input> iotlab
+Sent: [2026-04-22 17:51:05] iotlab | path=bt | rssi=0
+

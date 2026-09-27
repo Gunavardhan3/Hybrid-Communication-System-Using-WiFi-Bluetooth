@@ -1,0 +1,31 @@
+pi@raspberrypi:~/Desktop/slab5 $ python3 server.py
+
+System ready (WiFi + Bluetooth)
+
+Bluetooth waiting for client...
+
+WiFi peer connected: ('10.215.41.186', 58954)
+
+Bluetooth connected: ('D8:3A:DD:0E:03:BB', 1)
+BT >> [2026-04-15 03:49:21] sixsevenllo | path=bt | rssi=-16
+BT >> [2026-04-15 03:49:32] iotlab | path=bt | rssi=-28
+BT >> [2026-04-15 03:49:35] hi | path=bt | rssi=-24
+BT >> [2026-04-15 03:49:35]  | path=bt | rssi=-26
+BT >> [2026-04-15 03:49:40] sixseven | path=bt | rssi=-31
+BT >> [2026-04-15 03:49:59] hi | path=bt | rssi=-31
+
+
+WiFi >> [2026-04-15 03:47:34] moving away | path=wifi | rssi=-100
+WiFi >> [2026-04-15 03:47:38] iotlab | path=wifi | rssi=-100
+WiFi >> [2026-04-15 03:47:41] iotlab | path=wifi | rssi=-100
+
+WiFi peer disconnected
+WiFi peer connected: ('10.215.41.186', 40872)
+
+Bluetooth connected: ('D8:3A:DD:0E:03:BB', 1)
+BT >> [2026-04-15 03:49:35] hi | path=bt | rssi=0
+
+BT >> [2026-04-15 03:50:50] iotlab | path=bt | rssi=0
+BT >> [2026-04-15 03:50:59] sixsevenllo | path=bt | rssi=0
+BT >> [2026-04-15 03:51:03] iotlab | path=bt | rssi=0
+BT >> [2026-04-15 03:51:05] iotlab | path=bt | rssi=0
